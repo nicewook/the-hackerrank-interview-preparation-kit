@@ -31,6 +31,14 @@ links: https://www.hackerrank.com/challenges/sock-merchant
 
 ## Jumping on the Clouds
 
-
+- move forward index + 1 or + 2
+- cannot move to slice value is 1. only can move to slice value is 0
+- find the shortest move to go to the end
+- input
+	- total number of clouds
+	- slice of binary ints(0 or 1)
+- output
+	- number of jumps
+    
 ## Repeating String
 
