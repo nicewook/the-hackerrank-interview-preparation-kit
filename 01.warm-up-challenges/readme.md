@@ -1,4 +1,4 @@
-# Warm up challenges
+# Warm-up Challenges
 
 links: https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
 
@@ -39,6 +39,6 @@ links: https://www.hackerrank.com/challenges/sock-merchant
 	- slice of binary ints(0 or 1)
 - output
 	- number of jumps
-    
+
 ## Repeating String
 
