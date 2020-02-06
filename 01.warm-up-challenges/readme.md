@@ -44,8 +44,8 @@ links: https://www.hackerrank.com/challenges/jumping-on-the-clouds
 - output
 	- number of jumps
 - **point**
-    -  
-
+	- trying to go +2 
+	- if not possible, then go +1
 
 ## Repeating String
 
