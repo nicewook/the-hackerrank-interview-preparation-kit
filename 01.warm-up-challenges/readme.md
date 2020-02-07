@@ -8,7 +8,7 @@ links: https://www.hackerrank.com/challenges/sock-merchant
 
 - find how many pairs of socks in there
 - input
-    - thtoal sock number
+    - totoal sock number
     - slice of socks (int represent color of socke)
 - output
     - total pairs of the right socks
