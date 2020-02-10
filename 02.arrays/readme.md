@@ -21,20 +21,21 @@ links: https://www.hackerrank.com/challenges/2d-array
 
 ## Left Rotation
 
-links: https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+links: https://www.hackerrank.com/challenges/ctci-array-left-rotation
 
 - find valley numbers
 - input
-    - total up/down step number
-    - slice of ups and downs
+    - array a
+    - array size n
+    - rotation number d
 - output
-    - number of valleys
+    - rotation result
 - **point**
-    - if 'U' and it's sea level, then it was the valley
+    - just used built-in "append" function
 
 ## New Year Chaos
 
-links: https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+links: https://www.hackerrank.com/challenges/new-year-chaos
 
 - find valley numbers
 - input
